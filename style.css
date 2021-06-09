@@ -143,6 +143,6 @@ input::placeholder {
 .menu{
     width: 100px;
     cursor: pointer;
-    margin-left: 10vh;
-    margin-bottom: 0vh;
+    margin-left: 5%;
+    margin-top: 10%;
 }
