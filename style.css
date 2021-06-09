@@ -141,7 +141,7 @@ input::placeholder {
     color: rgb(28, 26, 26)
 }
 .menu{
-    width: 100px;
-    margin-left: 5%;
+    width: 80px;
+    margin-left: 0;
     margin-top: 10%;
 }
